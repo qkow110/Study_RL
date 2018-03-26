@@ -1,4 +1,6 @@
-﻿import sys
+#윈도우와 리눅스간의 키입력방식이 다르기 때문에 아래와같이소스작성
+
+import sys
 import tensorflow
 import gym
 from gym.envs.registration import register
